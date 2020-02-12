@@ -1,5 +1,5 @@
 .DS_Store
-tutorial_1/node_modules
+week_1/node_modules
 /dist
 
 # local env files
