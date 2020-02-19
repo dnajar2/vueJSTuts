@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="container">
         <h2 class="text-center">eBacon</h2>
         <cart
                 :show-shopping-chart="showShoppingChart"
